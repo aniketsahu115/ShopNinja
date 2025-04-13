@@ -1,5 +1,5 @@
 ## Project URL
-**[Click Here](https://shop-ninja.vercel.app/)
+**[Click Here](https://shop-ninja.vercel.app/)**
 
 ## Tech Stack
 
