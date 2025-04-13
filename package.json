@@ -1,5 +1,5 @@
 {
-  "homepage": "https://aniketsahu115.github.io/ShipNinja",
+  "homepage": "https://aniketsahu115.github.io/ShopNinja",
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
@@ -8,6 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "build:dev": "vite build --mode development",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
